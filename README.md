@@ -2,12 +2,14 @@
 
 ### Contact me:
 
-[<img align="left" alt="alinabylkova | Email" width="21px" src="https://cdn.onlinewebfonts.com/svg/img_504350.png" target="_blank" />][email]
-[<img align="left" alt="alinabylkova | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][linkedin]
+[<img align="left" alt="alinabylkova | Email" width="21px" src="https://cdn.onlinewebfonts.com/svg/img_504350.png" />][email]
+[<img align="left" alt="alinabylkova | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 ### Languages and Tools:
 
-<a href="https://www.javascript.com/" title="JavaScript"><img alt="JavaScript" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+<a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img alt="JavaScript" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img alt="TypeScript" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>
 
 <br />
