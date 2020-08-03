@@ -11,24 +11,15 @@
 
 <a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img alt="JavaScript" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img alt="TypeScript" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>
-
-<br />
-
 <a href="https://nodejs.org/en/" title="Node.js"><img alt="Node.js" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="Express" width="21px" height="21px"></img></a>
 <a href="https://www.mongodb.com/" title="MongoDB"><img alt="MongoDB" width="21px" src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" /></a>
-
-<br />
-
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img alt="HTML5" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img alt="CSS3" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://sass-lang.com/" title="Sass"><img alt="Sass" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img alt="Bootstrap" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>
 <a href="https://jquery.com/" title="jQuery"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jquery-icon.svg" alt="jQuery" width="21px" height="21px"></img></a>
 <a href="https://reactjs.org/" title="React"><img alt="React" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
-
-<br />
-
 <a href="https://eslint.org/" title="Eslint"><img alt="Eslint" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img alt="Docker" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img alt="Git" width="21px" src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" /></a>
