@@ -13,7 +13,7 @@
 <br />
 
 <a href="https://nodejs.org/en/" title="Node.js"><img alt="Node.js" width="22px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
-<a href="http://expressjs.com/" title="Express"><img alt="Express" style="margin-top: 10px" width="22px" src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" /></a>
+<a href="http://expressjs.com/" title="Express"><img alt="Express" width="22px" src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" /></a>
 <a href="https://www.mongodb.com/" title="MongoDB"><img alt="MongoDB" width="22px"  src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" /></a>
 
 <br />
