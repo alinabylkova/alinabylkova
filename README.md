@@ -13,8 +13,8 @@
 <br />
 
 <a href="https://nodejs.org/en/" title="Node.js"><img alt="Node.js" width="22px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
-<a href="http://expressjs.com/" title="Express"><img alt="Express" style="margin-top: 10px" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" /></a>
-<a href="https://www.mongodb.com/" title="MongoDB"><img alt="MongoDB" width="22px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></a>
+<a href="http://expressjs.com/" title="Express"><img alt="Express" style="margin-top: 10px" width="22px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png" /></a>
+<a href="https://www.mongodb.com/" title="MongoDB"><img alt="MongoDB" width="22px"  src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" /></a>
 
 <br />
 
@@ -22,7 +22,7 @@
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img alt="CSS3" width="22px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://sass-lang.com/" title="Sass"><img alt="Sass" width="22px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img alt="Bootstrap" width="22px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>
-<a href="https://jquery.com/" title="jQuery"><img alt="jQuery" width="22px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /></a>
+<a href="https://jquery.com/" title="jQuery"><img alt="jQuery" width="22px"  src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png" /></a>
 <a href="https://reactjs.org/" title="React"><img alt="React" width="22px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
 
 <br />
