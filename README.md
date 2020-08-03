@@ -2,7 +2,7 @@
 
 ### Contact me:
 
-[<img align="left" alt="alinabylkova | Email" width="21px" height="21px" src="https://cdn.onlinewebfonts.com/svg/img_504350.png" />][email]
+[<img align="left" alt="alinabylkova | Email" width="30px" height="21px" src="https://cdn.onlinewebfonts.com/svg/img_504350.png" />][email]
 [<img align="left" alt="alinabylkova | LinkedIn" width="21px" height="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
