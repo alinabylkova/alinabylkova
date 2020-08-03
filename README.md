@@ -22,7 +22,10 @@
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img alt="CSS3" width="22px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://sass-lang.com/" title="Sass"><img alt="Sass" width="22px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img alt="Bootstrap" width="22px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>
-<a href="https://jquery.com/" title="jQuery"><img alt="jQuery" width="22px"  src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png" /></a>
+<a href="https://jquery.com/" title="jQuery"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jquery-icon.svg" alt="jQuery" width="21px" height="21px"></img></a>
+
+<!-- <a href="https://jquery.com/" title="jQuery"><img alt="jQuery" width="22px"  src="https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png" /></a> -->
+
 <a href="https://reactjs.org/" title="React"><img alt="React" width="22px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
 
 <br />
