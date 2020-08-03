@@ -2,11 +2,8 @@
 
 ### Contact me:
 
-[<img align="left" alt="alinabylkova | Email" width="21px" src="https://cdn.onlinewebfonts.com/svg/img_504350.png" />][email]
-[<img align="left" alt="alinabylkova | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<!-- - <span title="Email">📧</span>: [alina.bylkova@appliedtechnology.se](mailto:alina.bylkova@appliedtechnology.se)
-- <span title="LinkedIn">👩‍💼</span>: [linkedin.com/in/alinabylkova/](https://www.linkedin.com/in/alinabylkova/) -->
+[<img align="left" alt="alinabylkova | Email" width="21px" src="https://cdn.onlinewebfonts.com/svg/img_504350.png" target="_blank" />][email]
+[<img align="left" alt="alinabylkova | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][linkedin]
 
 ### Languages and Tools:
 
