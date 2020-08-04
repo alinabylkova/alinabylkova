@@ -1,6 +1,11 @@
-### Hi, I'm Alina Bylkova!
+### Hi, I'm Alina 👋!
 
-### Contact me:
+- 🎓 MSc in Finance from Lund University School of Economics and Management
+- 👩‍💼 3 years of work experience in the financial industry
+- 👩‍💻 Found a passion for programming while participating in a coding bootcamp with a focus on Web development
+- 🧂 Got accepted and successfully completed highly paced and very intense training program at <\/salt> with a focus on TDD, Agile, mob programming, and applied learning
+
+### You can contact me:
 
 [<img align="left" alt="alinabylkova | Email" width="30px" height="21px" src="https://cdn.onlinewebfonts.com/svg/img_504350.png" />][email]
 [<img align="left" alt="alinabylkova | LinkedIn" width="21px" height="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
