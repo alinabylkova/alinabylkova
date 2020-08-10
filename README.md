@@ -3,7 +3,7 @@
 - 🎓 MSc in Finance from Lund University School of Economics and Management
 - 👩‍💼 3 years of work experience in the financial industry
 - 👩‍💻 Found a passion for programming while participating in a coding bootcamp with a focus on Web development
-- 🧂 Got accepted and successfully completed highly paced and very intense training program at <\/salt> with a focus on TDD, Agile, mob programming, and applied learning
+- 🧂 Graduated as a full-stack developer from School of Applied Technology spring 2020
 
 ### You can contact me:
 
